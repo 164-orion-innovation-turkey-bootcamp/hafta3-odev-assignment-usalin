@@ -1,35 +1,4 @@
 {
-  "products": [
-    {
-      "id": 1,
-      "shortDescription": "description 1",
-      "productName": "product one",
-      "smallImageUrl": "https://via.placeholder.com/150",
-      "price": 9.99,
-      "largerImageUrl": "https://via.placeholder.com/300",
-      "longerDescription": "longer description 1",
-      "category": "category-1"
-    },
-    {
-      "id": 2,
-      "shortDescription": "description 2",
-      "productName": "product two",
-      "smallImageUrl": "https://via.placeholder.com/150",
-      "price": 19.99,
-      "largerImageUrl": "https://via.placeholder.com/300",
-      "longerDescription": "longer description 2",
-      "category": "category-2"
-    }
-  ],
-  "orders": [
-    {
-      "id": 1,
-      "orderTotal": 320,
-      "items": [],
-      "deliveryMethod": "post",
-      "userName": "some mock username"
-    }
-  ],
   "users": [
     {
       "username": "asdsaaa",
